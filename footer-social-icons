@@ -1,0 +1,19 @@
+<!-- CSS for footer social media icons -->
+
+<style>
+  .fas { 
+	      padding:7px;
+	      text-decoration: none;
+       }
+</style>
+
+<!-- HTML for footer social media icons -->
+
+<div style="padding-top:15px; margin-left: -20px;" class="textwidget">
+ 
+ <!-- Add social icons -->
+  <a href="https://www.facebook.com/abc" target="_blank" class="fas"><img src="fb-icon.png" alt="Facebook" width="20px"></a>
+  <a href="https://www.instagram.com/abc" target="_blank" class="fas"><img src="insta-icon.png" alt="Instagram" width="20px"></a>
+  <a href="https://www.pinterest.com/abc" target="_blank" class="fas"><img src="pin-icon.png" alt="Pinterest" width="20px"></a>
+
+</div>
